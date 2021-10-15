@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"F:/Unreal/BullCowGame-starter-kit/.vscode": true,
+		"F:/Unreal/BullCowGame-starter-kit/Content": true,
+		"F:/Unreal/BullCowGame-starter-kit/DerivedDataCache": true,
+		"F:/Unreal/BullCowGame-starter-kit/Intermediate": true,
+		"F:/Unreal/BullCowGame-starter-kit/Saved": true
+	}
+}
